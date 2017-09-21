@@ -11,7 +11,7 @@
     <meta name="description" content="baking gongbang e-commerce">
     <meta name="author" content="js.Kim">
     <meta name="keywords" content="baking">
-	<title>이건 보류</title> 
+	<title>이거는 공방 이당용~</title> 
 </head>
 <body>
 	<jsp:include page="/menu/top.jsp" />
