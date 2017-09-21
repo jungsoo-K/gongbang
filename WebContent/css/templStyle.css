@@ -1,0 +1,41 @@
+.title {
+	font-size: 23px;
+	text-align: center;
+	padding: 10px;
+}
+
+.search{
+	width:80%;
+	text-align:center;
+	margin:2px auto;
+}
+
+.content {
+	text-align: center;
+}
+
+/* 하단 메뉴 */
+.bottom {
+	margin : 10px 0;
+	text-align: center;
+}
+
+/* 테이블에 CSS 적용 */
+.listTab {
+	margin: 10px auto; /* 테이블 가운데 정렬 */
+	border: 1px solid #AAAAAA; /* 테이블 외곽선 스타일 */
+	border-collapse: collapse; /* 컬럼의 외곽선을 하나로 결합 */
+}
+
+.listTab > tr {
+	border: 1px solid #AAAAAA;
+}
+
+.listTab > TH, td {
+	font-size: 15px;
+	padding: 8px !important; /* 셀 내부 간격 */
+}
+
+.readTab{
+	border : 1px solid #c0c0c0;
+}

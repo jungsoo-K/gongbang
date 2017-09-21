@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/sql/bbs.sql=UTF-8
+encoding//WebContent/WEB-INF/sql/img.sql=UTF-8
+encoding//WebContent/WEB-INF/sql/member.sql=UTF-8
+encoding//WebContent/css/templStyle.css=UTF-8
+encoding//src/bbs/BbsDAO.java=UTF-8
+encoding//src/bbs/BbsVO.java=UTF-8
+encoding//src/utility/AdminLoginCheckFilter.java=UTF-8
+encoding//src/utility/Constant.java=UTF-8
+encoding//src/utility/DBClose.java=UTF-8
+encoding//src/utility/DBOpen.java=UTF-8
+encoding//src/utility/FileDownload.java=UTF-8
+encoding//src/utility/UploadSave.java=UTF-8
+encoding//src/utility/Utility.java=UTF-8
+encoding/<project>=UTF-8
